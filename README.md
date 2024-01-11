@@ -28,10 +28,11 @@ Create a virtual environment to manage project dependencies and ensure a clean e
 bash
 
 python -m venv venv
-Activate Virtual Environment: Activate the virtual environment based on your operating system:
 
 ```
+Activate Virtual Environment:
 
+Activate the virtual environment based on your operating system:
 
 ```
 On Windows:
