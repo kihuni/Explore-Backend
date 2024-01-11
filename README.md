@@ -20,7 +20,10 @@ Code Editor:
 
 Choose a code editor that suits your preferences. Popular choices include [Visual Studio Code](https://visualstudio.microsoft.com/), [PyCharm](https://www.jetbrains.com/pycharm/download/?section=linux), and [Atom](https://atom-editor.cc/).
 
-Virtual Environment: Create a virtual environment to manage project dependencies and ensure a clean environment for each project:
+Virtual Environment:
+
+Create a virtual environment to manage project dependencies and ensure a clean environment for each project:
+
 ```
 bash
 
@@ -53,41 +56,54 @@ pip install -r requirements.txt
 ```
 Now that your environment is set up, let's embark on the journey of API development with Python.
 
-Learning Path
+Learning Path:
+
 1. Python Basics (If Needed)
-If you're new to Python, make sure to complete the beginner-level Python branch mentioned earlier.
+
+If you're new to Python, make sure to complete the beginner-level [Python](https://github.com/kihuni/Explore-Backend/tree/main/Intro-to-Python-article) mentioned earlier.
 
 2. Understanding API Fundamentals
-2.1 HTTP and RESTful APIs
-Gain a solid understanding of HTTP and RESTful APIs, the foundational protocols for communication between clients and servers.
 
-2.2 JSON and Data Serialization
-Learn about JSON (JavaScript Object Notation) and data serialization, essential for structuring and transmitting data in APIs.
+    2.1 HTTP and RESTful APIs
+
+    Gain a solid understanding of HTTP and RESTful APIs, the foundational protocols for communication between clients and servers.
+
+    2.2 JSON and Data Serialization
+
+    Learn about JSON (JavaScript Object Notation) and data serialization, essential for structuring and transmitting data in APIs.
 
 3. API Development with Python
-3.1 Flask
-Explore the lightweight Flask framework for building APIs. Learn to define routes, handle requests, and structure your API.
 
-3.2 Django REST Framework
-Dive into Django REST Framework, a powerful toolkit for building Web APIs with Django. Understand serialization, authentication, and viewsets.
+    3.1 Django REST Framework
+
+    Dive into Django REST Framework, a powerful toolkit for building Web APIs with Django. Understand serialization, authentication, and viewsets.
 
 4. Advanced Topics
-4.1 Authentication and Authorization
-Implement secure authentication and authorization mechanisms to protect your API.
 
-4.2 API Testing
-Learn the importance of testing in API development and explore testing frameworks like pytest.
+    4.1 Authentication and Authorization
+
+    Implement secure authentication and authorization mechanisms to protect your API.
+
+    4.2 API Testing
+
+    Learn the importance of testing in API development and explore testing frameworks like pytest.
 
 5. Real-world API Projects
+
 Apply your knowledge by working on practical API projects. Create a simple RESTful API, integrate third-party APIs, or build a project that aligns with your interests.
 
 Additional Resources
-Official Python Documentation: Refer to the official Python documentation for in-depth information about the language.
 
-Flask Documentation: Explore the Flask documentation for comprehensive guidance on building APIs with Flask.
+[Official Python Documentation:](https://www.python.org/about/gettingstarted/)
 
-Django REST Framework Documentation: Refer to the Django REST Framework documentation for detailed information on building Web APIs with Django.
+Refer to the official Python documentation for in-depth information about the language.
 
-Remember, practice is key to mastering API development. Explore, experiment, and enjoy the journey of building powerful APIs with Python. Happy coding!
+[Django REST Framework Documentation:](https://www.django-rest-framework.org/)
+
+Refer to the Django REST Framework documentation for detailed information on building Web APIs with Django.
+
+Remember, practice is key to mastering API development. Explore, experiment, and enjoy the journey of building powerful APIs with Python.
+
+Happy coding!
 
 ![](https://github.com/kihuni/Explore-Backend/blob/main/Explore%20Backend.png)
