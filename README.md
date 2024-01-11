@@ -30,8 +30,6 @@ bash
 python -m venv venv
 
 ```
-Activate Virtual Environment:
-
 Activate the virtual environment based on your operating system:
 
 ```
