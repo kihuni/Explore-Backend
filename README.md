@@ -12,9 +12,13 @@ If you are new to Python, no worries! We have a dedicated branch that covers Pyt
 #### Setting Up Your Development Environment
 Before diving into API development, let's set up your development environment:
 
-Install Python: Download and install the latest version of Python from the official Python website.
+Install Python:
 
-Code Editor: Choose a code editor that suits your preferences. Popular choices include Visual Studio Code, PyCharm, and Atom.
+Download and install the latest version of Python from the official [Python website](https://wiki.python.org/moin/BeginnersGuide/Download).
+
+Code Editor:
+
+Choose a code editor that suits your preferences. Popular choices include [Visual Studio Code](https://visualstudio.microsoft.com/), [PyCharm](https://www.jetbrains.com/pycharm/download/?section=linux), and [Atom](https://atom-editor.cc/).
 
 Virtual Environment: Create a virtual environment to manage project dependencies and ensure a clean environment for each project:
 ```
