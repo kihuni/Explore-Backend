@@ -1,5 +1,3 @@
-<h1> Introduction to Web Development using Python <h1>
-
 # Welcome to the comprehensive guide on web development using Python.
 
 In this article, you'll embark on a journey from understanding the fundamentals of Python to building a simple web application. Let's explore the key topics you'll cover:
