@@ -16,7 +16,7 @@ Understand the specific contributions of Python to the dynamic field of web prog
 
 Discover the inherent benefits that make Python a preferred choice for web developers.
 
-## II. Python Basics for Web Development
+[## II. Python Basics for Web Development](https://dev.to/kihuni/python-102-python-basics-for-web-development-14ih)
 
 ### Variables, Data Types, and Operators:
 
