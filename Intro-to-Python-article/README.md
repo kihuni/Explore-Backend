@@ -22,9 +22,9 @@ Discover the inherent benefits that make Python a preferred choice for web devel
 
 Grasp the essentials of variable assignment, data types, and operators in Python.
 
-### Conditional logic, Control Flow (if Statements, Loops) and Error Handling:
+### Control Flow (if Statements, Loops):
 
-Dive into the foundational concepts of Conditional logic, error handling, and control flow, including if statements and loops.
+Dive into the foundational concepts of  control flow, including if statements and loops.
 
 ### Functions and Modules:
 
