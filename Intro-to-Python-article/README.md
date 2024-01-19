@@ -34,7 +34,7 @@ Learn how to structure code using functions and modules, promoting modular and r
 
 Explore input and output mechanisms, crucial for interaction between the user and the program.
 
-## III. Data Structures in Python
+## [III. Data Structures in Python](https://dev.to/kihuni/data-structures-in-python-5437)
 
 ### Lists, Tuples, Sets, and Dictionaries:
 
