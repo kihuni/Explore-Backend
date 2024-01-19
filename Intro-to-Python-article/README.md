@@ -44,9 +44,9 @@ Master Python's versatile data structures and understand their optimal use cases
 
 Explore string manipulation techniques, essential for processing textual data.
 
-### Understanding and Using Python Data Structures Effectively:
+### Project:
 
-Develop proficiency in efficiently leveraging Python's data structures in web development.
+Implement a to-do list application using lists and dictionaries.
 
 ### IV. Object-Oriented Programming (OOP) in Python
 
