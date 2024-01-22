@@ -30,6 +30,7 @@ employe2 = Employee(102, "Jane Doe", 6000)
 # Accessing methods (encapsulation hides the implementation details)
 print("Employee ID:", employe1.get_emp_id())
 print("Name:", employe1.get_name())
+# print("error:", employe1.__salary())
 
 
 # Modifying the salary attribute using setter method

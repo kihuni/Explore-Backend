@@ -48,7 +48,7 @@ Explore string manipulation techniques, essential for processing textual data.
 
 Implement a to-do list application using lists and dictionaries.
 
-### IV. Object-Oriented Programming (OOP) in Python
+### [IV. Object-Oriented Programming (OOP) in Python](https://dev.to/kihuni/object-oriented-programming-oop-in-python-4ci6)
 
 ### Classes and Objects: 
 
