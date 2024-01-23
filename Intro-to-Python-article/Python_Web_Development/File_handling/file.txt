@@ -1,0 +1,3 @@
+My name is stephen
+I am learning how to handle file in python
+Wish me luck
