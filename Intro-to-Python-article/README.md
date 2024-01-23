@@ -66,7 +66,7 @@ Explore the concepts of encapsulation and abstraction for effective code organiz
 
 Learn how Python facilitates the implementation of fundamental OOP principles.
 
-## V. File Handling in Python
+## [V. File Handling in Python](https://dev.to/kihuni/file-handling-in-python-4j78)
 
 ### Reading and Writing Files:
 
