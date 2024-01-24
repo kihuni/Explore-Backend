@@ -4,4 +4,5 @@ url = "https://www.example.com"
 response = urllib.request.urlopen(url)
 data = response.read()
 
-print(data)
+decoded_data = data.decode('utf-8')
+print(decoded_data)
