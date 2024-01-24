@@ -80,7 +80,7 @@ Explore the versatility of file handling by working with popular file formats li
 
 Implement error-handling strategies for robust file operations.
 
-### VI. Python Standard Library for Web Development
+### [VI. Python Standard Library for Web Development](https://dev.to/kihuni/python-standard-library-for-web-development-4399)
 
 ### Overview of Key Modules in the Standard Library:
 
