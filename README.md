@@ -7,7 +7,7 @@ Welcome to the exciting world of API development using Python! This guide is tai
 
 ### Prerequisites
 
-If you are new to Python, no worries! We have a dedicated resource that covers Python from the beginner level. You can access it [here](https://github.com/kihuni/Explore-Backend/tree/main/Intro-to-Python-article). This branch provides a solid foundation in Python programming, ensuring you have the necessary skills to proceed with backend development.
+If you are new to Python, no worries! We have a dedicated resource that covers Python from the beginner level. You can access it [here](https://github.com/kihuni/Explore-Backend/tree/main/Intro-to-Python-article). This resource provides a solid foundation in Python programming, ensuring you have the necessary skills to proceed with backend development.
 
 #### Setting Up Your Development Environment
 Before diving into API development, let's set up your development environment:
