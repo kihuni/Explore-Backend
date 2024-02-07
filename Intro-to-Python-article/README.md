@@ -94,7 +94,7 @@ Explore libraries that streamline common web development tasks such as HTTP requ
 
 Harness the capabilities of the Python Standard Library to enhance web development projects.
 
-[## VII. Introduction to Web Development Concepts](https://dev.to/kihuni/client-server-introduction-to-web-development-concepts-2g2m)
+## [VII. Introduction to Web Development Concepts](https://dev.to/kihuni/client-server-introduction-to-web-development-concepts-2g2m)
 
 ### Overview of Client-Server Architecture:
 
