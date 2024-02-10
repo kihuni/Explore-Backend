@@ -108,7 +108,7 @@ Familiarize yourself with the HTTP protocol and other web-related protocols.
 
 Gain insights into the structure of URLs and the mechanics of web requests.
 
-## VIII. Building a Simple Web Application with Python
+## [VIII. Building a Simple Web Application with Python](https://dev.to/kihuni/building-a-simple-web-application-with-python-33cd)
 
 ### Creating a Basic Web Server using Python:
 
